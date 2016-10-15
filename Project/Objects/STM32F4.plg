@@ -1,0 +1,839 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\buzij\Desktop\omni_navigation - 副本\Project\STM32F4.uvproj
+Project File Date:  10/14/2016
+
+<h2>Output:</h2>
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling CAN2.c...
+..\User\CAN2.c(82): warning:  #177-D: variable "i" was declared but never referenced
+compiling USART3.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(42): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(36): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(98): warning:  #1-D: last line of file ends without a newline
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(252): warning:  #550-D: variable "wz" was set but never used
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(37): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(126): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(79): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "EK0" was declared but never referenced
+compiling Wheel_Speed.c...
+..\User\Wheel_Speed.c(22): warning:  #177-D: variable "num" was declared but never referenced
+..\User\Wheel_Speed.c(23): warning:  #177-D: variable "i" was declared but never referenced
+..\User\Wheel_Speed.c(24): warning:  #177-D: variable "sum" was declared but never referenced
+linking...
+Program Size: Code=27088 RO-data=664 RW-data=316 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 27 Warning(s).
+Build target 'STM32F4'
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(37): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(126): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(79): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "EK0" was declared but never referenced
+compiling Wheel_Speed.c...
+..\User\Wheel_Speed.c(22): warning:  #177-D: variable "num" was declared but never referenced
+..\User\Wheel_Speed.c(23): warning:  #177-D: variable "i" was declared but never referenced
+..\User\Wheel_Speed.c(24): warning:  #177-D: variable "sum" was declared but never referenced
+linking...
+Program Size: Code=27088 RO-data=664 RW-data=316 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 10 Warning(s).
+Build target 'STM32F4'
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(37): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(126): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(79): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "EK0" was declared but never referenced
+linking...
+Program Size: Code=27088 RO-data=664 RW-data=316 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling CAN2.c...
+..\User\CAN2.c(82): warning:  #177-D: variable "i" was declared but never referenced
+compiling USART3.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(41): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(92): warning:  #1-D: last line of file ends without a newline
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(252): warning:  #550-D: variable "wz" was set but never used
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(37): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(126): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(79): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(80): warning:  #177-D: variable "EK0" was declared but never referenced
+compiling Wheel_Speed.c...
+..\User\Wheel_Speed.c(22): warning:  #177-D: variable "num" was declared but never referenced
+..\User\Wheel_Speed.c(23): warning:  #177-D: variable "i" was declared but never referenced
+..\User\Wheel_Speed.c(24): warning:  #177-D: variable "sum" was declared but never referenced
+linking...
+Program Size: Code=27088 RO-data=664 RW-data=316 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 27 Warning(s).
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(41): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(90): warning:  #1-D: last line of file ends without a newline
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(253): warning:  #550-D: variable "wz" was set but never used
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(33): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(47): error:  #20: identifier "uy" is undefined
+..\User\Chassis_Control.c(122): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(76): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(76): warning:  #177-D: variable "EK0" was declared but never referenced
+compiling Wheel_Speed.c...
+..\User\Wheel_Speed.c(22): warning:  #177-D: variable "num" was declared but never referenced
+..\User\Wheel_Speed.c(23): warning:  #177-D: variable "i" was declared but never referenced
+..\User\Wheel_Speed.c(24): warning:  #177-D: variable "sum" was declared but never referenced
+".\Objects\STM32F4.axf" - 1 Errors, 25 Warning(s).
+Target not created
+Build target 'STM32F4'
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(33): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(47): error:  #20: identifier "uy" is undefined
+..\User\Chassis_Control.c(122): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(76): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(76): warning:  #177-D: variable "EK0" was declared but never referenced
+".\Objects\STM32F4.axf" - 1 Errors, 7 Warning(s).
+Target not created
+Build target 'STM32F4'
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(33): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(43): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(121): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(74): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "EK0" was declared but never referenced
+linking...
+Program Size: Code=26928 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 8 Warning(s).
+Build target 'STM32F4'
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(33): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(43): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(121): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(74): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "EK0" was declared but never referenced
+linking...
+Program Size: Code=26928 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 8 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling CAN2.c...
+..\User\CAN2.c(82): warning:  #177-D: variable "i" was declared but never referenced
+compiling USART3.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(41): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(90): warning:  #1-D: last line of file ends without a newline
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(253): warning:  #550-D: variable "wz" was set but never used
+compiling Chassis_Control.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\Chassis_Control.c(33): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\Chassis_Control.c(43): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(121): warning:  #1-D: last line of file ends without a newline
+..\User\Chassis_Control.c(74): warning:  #177-D: variable "ky" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "yawback" was declared but never referenced
+..\User\Chassis_Control.c(75): warning:  #177-D: variable "EK0" was declared but never referenced
+compiling Wheel_Speed.c...
+..\User\Wheel_Speed.c(22): warning:  #177-D: variable "num" was declared but never referenced
+..\User\Wheel_Speed.c(23): warning:  #177-D: variable "i" was declared but never referenced
+..\User\Wheel_Speed.c(24): warning:  #177-D: variable "sum" was declared but never referenced
+linking...
+Program Size: Code=26928 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 28 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26912 RO-data=664 RW-data=288 ZI-data=1888  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26912 RO-data=664 RW-data=288 ZI-data=1888  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26928 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26928 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(41): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(82): warning:  #1-D: last line of file ends without a newline
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(253): warning:  #550-D: variable "wz" was set but never used
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26896 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(82): warning:  #1-D: last line of file ends without a newline
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26600 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(82): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=26648 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 5 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(82): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=26656 RO-data=664 RW-data=292 ZI-data=1892  
+".\Objects\STM32F4.axf" - 0 Errors, 5 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15484 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21144 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15484 RO-data=424 RW-data=240 ZI-data=1480  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15496 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15496 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21160 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21008 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=21008 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Build target 'STM32F4'
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Build target 'STM32F4'
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Build target 'STM32F4'
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15492 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+linking...
+Program Size: Code=15492 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 0 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15492 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=15492 RO-data=424 RW-data=244 ZI-data=1484  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20984 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20992 RO-data=584 RW-data=288 ZI-data=1824  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling mpu6050_driver.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+compiling mpu6050_i2c.c...
+linking...
+Program Size: Code=20728 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling main.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=20728 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 4 Warning(s).
+Build target 'STM32F4'
+linking...
+Program Size: Code=20728 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 0 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(41): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(35): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(82): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=21128 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling imu.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\imu.c(253): warning:  #550-D: variable "wz" was set but never used
+linking...
+Program Size: Code=21128 RO-data=584 RW-data=284 ZI-data=1828  
+".\Objects\STM32F4.axf" - 0 Errors, 5 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'STM32F4'
+compiling mpu6050_interrupt.c...
+..\User\usart3.h(53): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+linking...
+Program Size: Code=26464 RO-data=664 RW-data=288 ZI-data=1888  
+".\Objects\STM32F4.axf" - 0 Errors, 2 Warning(s).
+Load "C:\\Users\\buzij\\Desktop\\omni_navigation - 副本\\Project\\Objects\\STM32F4.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

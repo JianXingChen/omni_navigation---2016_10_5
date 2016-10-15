@@ -1,0 +1,49 @@
+*** Creating Trace Output File '.\Objects\STM32F4.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\objects\main.o"'
+### List of Objects: adding '".\objects\stm32f4xx_it.o"'
+### List of Objects: adding '".\objects\can2.o"'
+### List of Objects: adding '".\objects\misc.o"'
+### List of Objects: adding '".\objects\stm32f4xx_tim.o"'
+### List of Objects: adding '".\objects\stm32f4xx_adc.o"'
+### List of Objects: adding '".\objects\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\objects\stm32f4xx_can.o"'
+### List of Objects: adding '".\objects\stm32f4xx_exti.o"'
+### List of Objects: adding '".\objects\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\objects\stm32f4xx_dma.o"'
+### List of Objects: adding '".\objects\stm32f4xx_usart.o"'
+### List of Objects: adding '".\objects\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\objects\system_stm32f4xx.o"'
+### List of Objects: adding '".\objects\startup_stm32f4xx.o"'
+### List of Objects: adding '".\objects\led.o"'
+### List of Objects: adding '".\objects\usart3.o"'
+### List of Objects: adding '".\objects\sys.o"'
+### List of Objects: adding '".\objects\delay.o"'
+### List of Objects: adding '".\objects\clock.o"'
+### List of Objects: adding '".\objects\6050.o"'
+### List of Objects: adding '".\objects\i2c.o"'
+### List of Objects: adding '".\objects\prepare_data.o"'
+### List of Objects: adding '".\objects\holder.o"'
+### List of Objects: adding '".\objects\remote.o"'
+### List of Objects: adding '".\objects\motor_out.o"'
+### List of Objects: adding '".\objects\chassis_control.o"'
+### List of Objects: adding '".\objects\wheel_speed.o"'
+### List of Objects: adding '".\objects\shoot.o"'
+### List of Objects: adding '".\objects\load_motor.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\objects\main.o" ".\objects\stm32f4xx_it.o" ".\objects\can2.o" ".\objects\misc.o" ".\objects\stm32f4xx_tim.o" ".\objects\stm32f4xx_adc.o" ".\objects\stm32f4xx_rcc.o" ".\objects\stm32f4xx_can.o" ".\objects\stm32f4xx_exti.o" ".\objects\stm32f4xx_gpio.o" ".\objects\stm32f4xx_dma.o" ".\objects\stm32f4xx_usart.o" ".\objects\stm32f4xx_syscfg.o" ".\objects\system_stm32f4xx.o" ".\objects\startup_stm32f4xx.o" ".\objects\led.o" ".\objects\usart3.o" ".\objects\sys.o" ".\objects\delay.o" ".\objects\clock.o" ".\objects\6050.o" ".\objects\i2c.o" ".\objects\prepare_data.o" ".\objects\holder.o" ".\objects\remote.o" ".\objects\motor_out.o" ".\objects\chassis_control.o" ".\objects\wheel_speed.o" ".\objects\shoot.o" ".\objects\load_motor.o" 
+--library_type=microlib --strict --scatter ".\Objects\STM32F4.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\STM32F4.map" -o .\Objects\STM32F4.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Objects\STM32F4.axf'
+### ADS-LD Command File: '.\Objects\STM32F4.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Objects\STM32F4.lnp', Handle=0x00000924
+### Writing '.lnp' file
+### ADS-LD Command file '.\Objects\STM32F4.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
